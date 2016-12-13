@@ -8,10 +8,10 @@ icon: icon-penknife
 tags: [1.7]
 ---
 
-For those who want to dive into the new major version of PrestaShop, version 1.7, this page summarizes the available information so far -- mostly published on the Build devblog, which you should read every week [:)]
+For those who want to dive into the new major version of PrestaShop, version 1.7, this page summarizes the available information so far -- mostly published on the Build devblog, which you should read every week :)
 
 
-Public releases:
+## Public releases ##
 
 * On April 4th 2016, the first public test version was released, [version 1.7.0.0 alpha 3](http://build.prestashop.com/news/prestashop-1-7-alpha-3-is-here/).
 * On April 25th 2016, [we released 1.7.0.0 alpha 4](http://build.prestashop.com/news/here-comes-prestashop-1-7-alpha-4/).
@@ -27,7 +27,7 @@ Public releases:
 In general, you really should pay a visit to the Build devblog on a regular basis: http://build.prestashop.com/
 This is where we update the Community on the latest news from the Dev team!
 
-Quick selection of articles about v1.7:
+## Quick selection of articles about v1.7 ##
 
 * **[Dropping support for PHP 5.2 and 5.3](http://build.prestashop.com/news/Dropping-support-php52-and-53/)**<br/>
     June 2015: The team wants to modernize PrestaShop's codebase by adopting PHP 5.4. Together with the adoption of SemVer, this change will mean the arrival of a new major version: PrestaShop 1.7.
@@ -56,14 +56,14 @@ Quick selection of articles about v1.7:
 * **[PrestaShop 1.7 & performances](http://build.prestashop.com/news/prestashop-1-7-performances/)**<br/>
     October 2016: Hard work pays off!
 
-Articles about the new architecture:
+## Articles about the new architecture ##
 
 * **[New architecture initial announcement](http://build.prestashop.com/news/new-architecture-1-6-1-0/)**
     May 2015: Presenting our first architecture modernization effort, which will lead to the (pre-SemVer) major version 1.6.1.0.
 * **[Introducing Symfony2](http://build.prestashop.com/news/prestashop-1-7-and-symfony/)**
     December 2015: The dev team has chosen to include the Symfony 2.8 framework in the new architecture for PS 1.7. The article details the integration plan.
 
-Articles about the Starter Theme:
+## Articles about the Starter Theme ##
 
 * **[Starter Theme announcement](http://build.prestashop.com/news/starter-theme-kickoff/)**
     August 2015: Launch of the Starter Theme project, which rebuilds the PrestaShop's Theme API while offering a skeleton theme which developers will be able to use in order to create their own theme way more easily. The 1.7 default theme will be built upon this Starter Theme.
@@ -74,14 +74,14 @@ Articles about the Starter Theme:
 * **[Project update 3](http://build.prestashop.com/news/starter-theme-news-3/)**
     December 2015: Page layout, checkout process, Payment API, layered navigation, pagination, search, contact form, cleaning (removal of Live Edit and Theme Configurator).
 
-Articles about the new default theme:
+## Articles about the new default theme ##
 
 * **[New default theme for PrestaShop 1.7](http://build.prestashop.com/news/new-theme-1-7-introduction/)**
     February 2016: Introducing the new default theme for PS 1.7, based on the Starter Theme. Screenshots!
 * **[Designing the new PrestaShop default theme](http://build.prestashop.com/news/Designing-the-new-PrestaShop-default-theme/)**
     June 216: How we rebuilt the front office to suit any merchant
 
-Articles that go beyond the scope of v1.7:
+## Articles that go beyond the scope of v1.7 ##
 
 * **[Adopting SemVer for our version numbers](http://build.prestashop.com/news/a-more-semantic-versioning-scheme/)**
     June 2015: Announcing the adoption of Semantic Versioning (SemVer) for the version after 1.6.1.0, which introduce major/minor/patch releases.
